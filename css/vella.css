@@ -1,0 +1,9 @@
+.vella-icon{
+    width:50%
+}
+
+@media only screen and (max-width: 600px) {
+    .vella-icon {
+        width:100%;
+    }
+  }
